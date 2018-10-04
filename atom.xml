@@ -4,13 +4,34 @@
  <title>Mr. Rogbeer is from Mauritius but not ~rogbeer</title>
  <link href="http://tilde.town/~rogbeer/atom.xml" rel="self"/>
  <link href="http://tilde.town/~rogbeer/"/>
- <updated>2018-10-02T07:31:12+00:00</updated>
+ <updated>2018-10-04T04:48:57+00:00</updated>
  <id>http://tilde.town</id>
  <author>
    <name>Tony Chen</name>
    <email>phtan90@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Setting this up with Jekyll</title>
+   <link href="http://tilde.town/~rogbeer/2018/10/04/jekyll/"/>
+   <updated>2018-10-04T00:00:00+00:00</updated>
+   <id>http://tilde.town/2018/10/04/jekyll</id>
+   <content type="html">&lt;p&gt;I thought I would post about the resources that I have had the privilege to
+refer to, in trying out the static-site generator Jekyll and one of the themes
+for it, Poole.&lt;/p&gt;
+
+&lt;h3 id=&quot;resources&quot;&gt;Resources&lt;/h3&gt;
+
+&lt;p&gt;In no particular order,&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Lande, J. (2014). ‘How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole’. URL: &lt;a href=&quot;http://joshualande.com/jekyll-github-pages-poole&quot;&gt;http://joshualande.com/jekyll-github-pages-poole&lt;/a&gt;. Accessed URL on 4th Oct 2018.&lt;/li&gt;
+  &lt;li&gt;Resi. (2017). ‘Jekyll and tilde.town’. In &lt;em&gt;tilde.town&lt;/em&gt; (Issue 2), pp. 5 to 9. URL: &lt;a href=&quot;https://github.com/tildetown/zine/blob/master/issue_2/zine.pdf&quot;&gt;https://github.com/tildetown/zine/blob/master/issue_2/zine.pdf&lt;/a&gt;. Accessed URL on 4th OCt 2018.&lt;/li&gt;
+  &lt;li&gt;Parker. (2014). ‘Clearing Up Confusion Around baseurl – Again’. URL: &lt;a href=&quot;https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/&quot;&gt;https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/&lt;/a&gt;. Accessed URL on 4th Oct 2018.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
  
  <entry>
    <title>A new way? nineteenth of March 2018: Night</title>
