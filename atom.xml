@@ -4,13 +4,68 @@
  <title>What does ~rogbeer put here?</title>
  <link href="http://tilde.town/~rogbeer/atom.xml" rel="self"/>
  <link href="http://tilde.town/~rogbeer/"/>
- <updated>2018-10-09T11:41:41+00:00</updated>
+ <updated>2018-10-12T06:19:39+00:00</updated>
  <id>http://tilde.town</id>
  <author>
    <name>Tony Chen</name>
    <email>phtan90@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>~cel and SecureScuttleButt (SSB)</title>
+   <link href="http://tilde.town/~rogbeer/2018/10/12/sunny/"/>
+   <updated>2018-10-12T00:00:00+00:00</updated>
+   <id>http://tilde.town/2018/10/12/sunny</id>
+   <content type="html">&lt;p&gt;My fellow townie &lt;a href=&quot;http://tilde.town/~cel&quot;&gt;~cel&lt;/a&gt;, 
+whom &lt;a href=&quot;https://twitter.com/nate_smith&quot;&gt;~vilmibm&lt;/a&gt;
+has organised &lt;a href=&quot;https://www.gofundme.com/pitch-in-for-a-townie&quot;&gt;a fund-raiser&lt;/a&gt;
+ for - that was 
+about eight months ago - has now seemed to jump onto the proverbial
+bandwagon of Scuttlebutt. I had that impression after visiting the
+web-page 
+&lt;a href=&quot;https://git-ssb.celehner.com/@f/6sQ6d2CMxRUhLpspgGIulDxDCwYD7DzFzPNr7u5AU=.ed25519&quot;&gt;https://git-ssb.celehner.com/@f/6sQ6d2CMxRUhLpspgGIulDxDCwYD7DzFzPNr7u5AU=.ed25519&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I had to do a little reading to get a better idea of what he was up to, though.&lt;/p&gt;
+
+&lt;p&gt;Perhaps the following reading material may help a new-comer to Scuttlebutt:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;‘What Is the Difference Between Patchwork and Scuttlebutt?’. In 
+&lt;em&gt;Scuttlebutt:  a decent(ralised) secure gossip platform&lt;/em&gt;.
+URL: &lt;a href=&quot;https://www.scuttlebutt.nz/faq/basics/patchwork-vs-scuttlebutt&quot;&gt;https://www.scuttlebutt.nz/faq/basics/patchwork-vs-scuttlebutt&lt;/a&gt;
+Accessed URL on 12th October 2018.&lt;/li&gt;
+  &lt;li&gt;‘git ssb’. 
+URL: &lt;a href=&quot;https://git.scuttlebot.io/%25n92DiQh7ietE%2BR%2BX%2FI403LQoyf2DtR3WQfCkDKlheQU%3D.sha256&quot;&gt;https://git.scuttlebot.io/%25n92DiQh7ietE%2BR%2BX%2FI403LQoyf2DtR3WQfCkDKlheQU%3D.sha256&lt;/a&gt;
+Accessed URL on 12th Oct 2018.&lt;/li&gt;
+  &lt;li&gt;‘Scuttlebutt Protocol Guide: 
+How Scuttlebutt peers find and talk to each other’.
+URL: &lt;a href=&quot;https://ssbc.github.io/scuttlebutt-protocol-guide/&quot;&gt;https://ssbc.github.io/scuttlebutt-protocol-guide/&lt;/a&gt;
+Accessed URL on 12th Oct 2018.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Charlie's suggestions for music</title>
+   <link href="http://tilde.town/~rogbeer/2018/10/10/overcast/"/>
+   <updated>2018-10-10T00:00:00+00:00</updated>
+   <id>http://tilde.town/2018/10/10/overcast</id>
+   <content type="html">&lt;p&gt;Charlie was a visitor whom I met in Singapore (in the past couple of weeks
+or so). He’s from Melbourne and he
+wore boots from the brand Blundstone. He was born in the year 1996 A.D.&lt;/p&gt;
+
+&lt;p&gt;He suggested that I listen to the following musicians:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://skipskipbenben.bandcamp.com/&quot;&gt;Skip skip ben ben&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tenzenmen.bandcamp.com/album/boyz-girl&quot;&gt;Boyz &amp;amp; Girl&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bandwagon.asia/articles/snail-mail-announces-southeast-asia-tour-singapore-jakarta-bangkok-more-confirmed&quot;&gt;Snail 
+Mail&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/laluzusa&quot;&gt;La Luz&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Music-gigs I have watched 'live'</title>
