@@ -4,7 +4,7 @@
  <title>What does ~rogbeer put here?</title>
  <link href="http://tilde.town/~rogbeer/atom.xml" rel="self"/>
  <link href="http://tilde.town/~rogbeer/"/>
- <updated>2018-10-12T06:19:39+00:00</updated>
+ <updated>2018-10-12T06:40:47+00:00</updated>
  <id>http://tilde.town</id>
  <author>
    <name>Tony Chen</name>
@@ -31,6 +31,12 @@ web-page
 &lt;p&gt;Perhaps the following reading material may help a new-comer to Scuttlebutt:&lt;/p&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/ibogost&quot;&gt;Bogost, I&lt;/a&gt;. (2017). ‘The Nomad Who’s 
+Exploding the Internet Into Pieces: 
+Could decentralizing online life make it more compatible with human life?’.
+In &lt;em&gt;The Atlantic&lt;/em&gt;. 
+URL: &lt;a href=&quot;https://www.theatlantic.com/technology/archive/2017/05/meet-the-counterantidisintermediationists/527553/&quot;&gt;https://www.theatlantic.com/technology/archive/2017/05/meet-the-counterantidisintermediationists/527553/&lt;/a&gt;.
+Accessed URL on 12th Oct 2018.&lt;/li&gt;
   &lt;li&gt;‘What Is the Difference Between Patchwork and Scuttlebutt?’. In 
 &lt;em&gt;Scuttlebutt:  a decent(ralised) secure gossip platform&lt;/em&gt;.
 URL: &lt;a href=&quot;https://www.scuttlebutt.nz/faq/basics/patchwork-vs-scuttlebutt&quot;&gt;https://www.scuttlebutt.nz/faq/basics/patchwork-vs-scuttlebutt&lt;/a&gt;
