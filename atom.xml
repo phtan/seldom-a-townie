@@ -4,13 +4,45 @@
  <title>What does ~rogbeer put here?</title>
  <link href="http://tilde.town/~rogbeer/atom.xml" rel="self"/>
  <link href="http://tilde.town/~rogbeer/"/>
- <updated>2018-10-30T05:18:03+00:00</updated>
+ <updated>2018-10-30T05:59:45+00:00</updated>
  <id>http://tilde.town</id>
  <author>
    <name>Tony Chen</name>
    <email>phtan90@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>What I learnt in Computer Science</title>
+   <link href="http://tilde.town/~rogbeer/2018/10/30/drizzling/"/>
+   <updated>2018-10-30T00:00:00+00:00</updated>
+   <id>http://tilde.town/2018/10/30/drizzling</id>
+   <content type="html">&lt;p&gt;I dropped out from an undergraduate course in Computer Science (CS, for short).&lt;/p&gt;
+
+&lt;p&gt;While I was attending CS courses, however, I learnt how to detach myself, or abstract
+myself, from technological tools, which, as a so-called ‘digital native’ may
+know, changes ever so frequently.&lt;/p&gt;
+
+&lt;p&gt;I learnt that if I have a fundamental skill, or what
+ &lt;a href=&quot;https://www.comp.nus.edu.sg/~bleong/&quot;&gt;(one of)&lt;/a&gt; 
+my lecturer(s)
+called ‘first principles’, I can solve a given problem, regardless of how
+seemingly foreign the problem may be.&lt;/p&gt;
+
+&lt;p&gt;Applying this concept in another context, it could be said that if I know
+the fundamental skills in social dealings, then regardless of which country,
+or culture, I find myself in, I can thrive (and not merely survive - but
+that’s a topic for another time, perhaps).&lt;/p&gt;
+
+&lt;p&gt;That’s powerful. That’s empowering. (As the saying goes, “Give a man a fish,
+and you feed him once. Teach a man to fish, and you feed him for a life-time.”)
+And it gives one confidence. It
+certainly gives me confidence.&lt;/p&gt;
+
+&lt;p&gt;But of course I credit all these lessons and benefits, or perks, to 
+&lt;a href=&quot;http://phtan.github.io/religion.html&quot;&gt;my god&lt;/a&gt; and his kindness and goodness.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>A bibliography of sorts, about open-source software (engineers)</title>
