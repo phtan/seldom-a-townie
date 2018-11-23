@@ -4,13 +4,30 @@
  <title>What does ~rogbeer put here?</title>
  <link href="http://tilde.town/~rogbeer/atom.xml" rel="self"/>
  <link href="http://tilde.town/~rogbeer/"/>
- <updated>2018-11-14T06:45:52+00:00</updated>
+ <updated>2018-11-23T06:18:40+00:00</updated>
  <id>http://tilde.town</id>
  <author>
    <name>Tony Chen</name>
    <email>phtan90@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>description of a certain kind of coffee in Singapore</title>
+   <link href="http://tilde.town/~rogbeer/2018/11/23/cloudy/"/>
+   <updated>2018-11-23T00:00:00+00:00</updated>
+   <id>http://tilde.town/2018/11/23/cloudy</id>
+   <content type="html">&lt;p&gt;A certain kind of coffee in Singapore has been described as ‘too bitter and
+too sweet at the same time’, if I am not mistaken in my recollection.&lt;/p&gt;
+
+&lt;p&gt;Coffee, when bought in Singapore, is not necessarily in the style of an
+Americano, espresso, Long Black and the like. In my experience, the ones that
+cost SGD$0.70 to $1.50 tend to not be espresso-like or even latte-like - the latter
+cost, maybe, upwards of SGD$3.&lt;/p&gt;
+
+&lt;p&gt;This might be an alert to seekers of coffee who are new in Singapore.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Places, in Singapore, where I have had wine for about SGD$10</title>
