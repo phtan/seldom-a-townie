@@ -1,16 +1,167 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>What does ~rogbeer put here?</title>
+ <title>~rogbeer's corner</title>
  <link href="http://tilde.town/~rogbeer/atom.xml" rel="self"/>
  <link href="http://tilde.town/~rogbeer/"/>
- <updated>2020-07-06T09:02:22+00:00</updated>
+ <updated>2021-08-14T09:45:39+00:00</updated>
  <id>http://tilde.town</id>
  <author>
-   <name>Tony Chen</name>
-   <email>phtan90@gmail.com</email>
+   <name>~rogbeer, whoever he is</name>
+   <email></email>
  </author>
 
+ 
+ <entry>
+   <title>about Gitea, or Git, on tilde.town</title>
+   <link href="http://tilde.town/~rogbeer/2021/08/14/overcast/"/>
+   <updated>2021-08-14T00:00:00+00:00</updated>
+   <id>http://tilde.town/2021/08/14/overcast</id>
+   <content type="html">&lt;p&gt;note to self:&lt;/p&gt;
+
+&lt;p&gt;run the following command once SSH-ed into tilde.town,
+if you want an account at https://git.tilde.town&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;town request-gitea&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;and for a list of options, run the command:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;town&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A story of two wolves</title>
+   <link href="http://tilde.town/~rogbeer/2021/06/18/sunny/"/>
+   <updated>2021-06-18T00:00:00+00:00</updated>
+   <id>http://tilde.town/2021/06/18/sunny</id>
+   <content type="html">&lt;p&gt;I saw this story on the Internet.&lt;/p&gt;
+
+&lt;p&gt;A village elder told a young child: 
+“There are two wolves in every person. One is loving and gentle, while 
+the other is hateful and brutal. They fight with each other all day and 
+all night.”&lt;/p&gt;
+
+&lt;p&gt;The child asked: “Which wolf wins?”&lt;/p&gt;
+
+&lt;p&gt;The elder replied: “The one you feed the most.”&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Content warning: emotional blackmail</title>
+   <link href="http://tilde.town/~rogbeer/2021/06/14/sunny/"/>
+   <updated>2021-06-14T00:00:00+00:00</updated>
+   <id>http://tilde.town/2021/06/14/sunny</id>
+   <content type="html">&lt;p&gt;Content warning: emotional blackmail.&lt;/p&gt;
+
+&lt;p&gt;“If you don’t do what I want you 
+to, I’ll kill myself.”&lt;/p&gt;
+
+&lt;p&gt;My mother said that to me when I was ten years 
+old or younger. Yes, my mother. I didn’t know what to do. I didn’t even 
+think to call the police. My siblings - a younger brother and a younger 
+sister - were there as well.&lt;/p&gt;
+
+&lt;p&gt;“Well? Do you want me to jump down from 
+nine storeys high, or not? Shall I do it now?”&lt;/p&gt;
+
+&lt;p&gt;My brother and I refused 
+to give in. But my sister rushed to Mummy and said, sobbing: “I love 
+you, Mummy, please don’t jump.”&lt;/p&gt;
+
+&lt;p&gt;Fast forward to my fifteen-year-old 
+self: I came in first in my cohort, in academic performance.&lt;/p&gt;
+
+&lt;p&gt;At 
+twenty-three years old: I felt unwell (mentally or otherwise). My 
+university class-mates started avoiding me.&lt;/p&gt;
+
+&lt;p&gt;Now, at thirty years old: 
+Looking back, it was hardly surprising that I suffered a break-down. I 
+had to attend to my wounds - emotional or otherwise - from my childhood. 
+All those years, I had been avoiding it, pretending everything was fine. 
+Now I feel much better, thanks to a Biblical God. And I wish - and 
+practise - kindness towards my mother, because that’s what my god wants.&lt;/p&gt;
+
+&lt;p&gt;If you’re suffering similarly right now, I hope my message encourages 
+you.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>hello world, from an Android phone</title>
+   <link href="http://tilde.town/~rogbeer/2021/06/08/sunny/"/>
+   <updated>2021-06-08T00:00:00+00:00</updated>
+   <id>http://tilde.town/2021/06/08/sunny</id>
+   <content type="html">&lt;p&gt;Long story short, I’m using an app called JuiceSSH to connect
+to tilde.town - and make this post - with
+ a mobile phone (instead of a laptop).&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Note to self re. Mastodon</title>
+   <link href="http://tilde.town/~rogbeer/2021/01/15/sunny/"/>
+   <updated>2021-01-15T00:00:00+00:00</updated>
+   <id>http://tilde.town/2021/01/15/sunny</id>
+   <content type="html">&lt;p&gt;I got an account on the social network called Mastodon because I wanted to say
+the following to the admin of the Mastodon-server/instance where 
+&lt;a href=&quot;http://tilde.town/~abraxas/&quot;&gt;~abraxas&lt;/a&gt;
+ had ~abraxas’s account:&lt;/p&gt;
+
+&lt;p&gt;“since ~abraxas is dead, can you reflect that on his Mastodon-account?”&lt;/p&gt;
+
+&lt;p&gt;Mastodon allows accounts to become “In Memoriam”. Kinda like a grave-stone.&lt;/p&gt;
+
+&lt;p&gt;I thought it would be easier to reach that admin through Mastodon than
+the internal mail-system of &lt;a href=&quot;http://tilde.town&quot;&gt;tilde.town&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You can find me on Mastodon, at &lt;a href=&quot;https://im-in.space/@rogbeer&quot;&gt;https://im-in.space/@rogbeer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Till next time.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>using Jekyll on tilde.town, circa 7th July 2020</title>
+   <link href="http://tilde.town/~rogbeer/2020/07/07/cloudy-morning/"/>
+   <updated>2020-07-07T00:00:00+00:00</updated>
+   <id>http://tilde.town/2020/07/07/cloudy-morning</id>
+   <content type="html">&lt;p&gt;Running &lt;em&gt;jekyll -v&lt;/em&gt;, on the command line, resulted in the following
+message:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;-bash: /usr/local/bin/jekyll: /usr/bin/ruby2.5: bad interpreter: No such file or directory&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;After some research, I found that I could run the following command:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;/usr/bin/jekyll -v&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;which resulted in the following message:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;jekyll 3.8.6&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I hope this post saves someone else some time.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Besides the above, I also made changes to my .bashrc , before Jekyll could work.&lt;/p&gt;
+
+&lt;p&gt;If you find it helpful, you may add the following two lines to your file located
+at ~/.bashrc :&lt;/p&gt;
+
+&lt;p&gt;export GEM_HOME=/home/your_username/gems&lt;/p&gt;
+
+&lt;p&gt;export PATH=”/home/your_username/gems:$PATH”&lt;/p&gt;
+
+&lt;p&gt;Replace your_username (in the above two lines) with your user-name, of course.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>updates, quickly</title>
@@ -32,7 +183,7 @@ Firewalls and what-not. VPN doesn’t seem to be an option (yet).&lt;/li&gt;
  </entry>
  
  <entry>
-   <title>Q&A for me</title>
+   <title>Q and A for me</title>
    <link href="http://tilde.town/~rogbeer/2020/04/05/sunny-morning/"/>
    <updated>2020-04-05T00:00:00+00:00</updated>
    <id>http://tilde.town/2020/04/05/sunny-morning</id>
@@ -918,7 +1069,7 @@ Articulture
  </entry>
  
  <entry>
-   <title>Expensive F&B in Singapore if you want</title>
+   <title>Expensive F and B in Singapore if you want</title>
    <link href="http://tilde.town/~rogbeer/2019/01/08/twilight/"/>
    <updated>2019-01-08T00:00:00+00:00</updated>
    <id>http://tilde.town/2019/01/08/twilight</id>
