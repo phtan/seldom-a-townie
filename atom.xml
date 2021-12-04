@@ -4,13 +4,82 @@
  <title>~rogbeer's corner</title>
  <link href="http://tilde.town/~rogbeer/atom.xml" rel="self"/>
  <link href="http://tilde.town/~rogbeer/"/>
- <updated>2021-08-14T09:45:39+00:00</updated>
+ <updated>2021-10-19T03:52:11+00:00</updated>
  <id>http://tilde.town</id>
  <author>
    <name>~rogbeer, whoever he is</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>where to buy postcards in Singapore</title>
+   <link href="http://tilde.town/~rogbeer/2021/10/19/indoors/"/>
+   <updated>2021-10-19T00:00:00+00:00</updated>
+   <id>http://tilde.town/2021/10/19/indoors</id>
+   <content type="html">&lt;p&gt;I joined Postcrossing last month, and I’ve since been keeping a look-out 
+for places that sell postcards, on this tiny island in South-east Asia.&lt;/p&gt;
+
+&lt;p&gt;I list a few below. Do you know of others? I hope you and I can add to 
+each other’s knowledge! :slight_smile:&lt;/p&gt;
+
+&lt;h3 id=&quot;the-usual-suspects-souvenir-shops&quot;&gt;the usual suspects: souvenir shops&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;somewhere in Kampong Glam (near Sultan Mosque)&lt;/li&gt;
+  &lt;li&gt;somewhere in 
+Chinatown&lt;/li&gt;
+  &lt;li&gt;Raffles Hotel&lt;/li&gt;
+  &lt;li&gt;National Museum of Singapore&lt;/li&gt;
+  &lt;li&gt;the shop 
+called Arch, in the shopping mall called Capitol, near City Hall MRT 
+Station&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;on-the-art-sy-side&quot;&gt;on the art-sy side&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;National Gallery of Singapore&lt;/li&gt;
+  &lt;li&gt;a pop-up bazaar called Invade, in 
+Esplanade Theatres&lt;/li&gt;
+  &lt;li&gt;Objectifs Centre for Film and Photography&lt;/li&gt;
+  &lt;li&gt;this 
+photographer, &lt;a href=&quot;https://www.christinesartventures.com/and-more&quot;&gt;Christine 
+Nagel&lt;/a&gt;, has been 
+shooting various sights in Singapore, and sells her own photos as 
+postcards.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;unexpected-postcards&quot;&gt;unexpected postcards&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;the (alcoholic beverages) bar called No. 5 Emerald Hill provides postcards, and mails them out to international addresses, free of charge. You can buy a drink if you feel paiseh. (Information accurate as of late 2019).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;this post first appeared at 
+&lt;a href=&quot;https://community.postcrossing.com/t/where-to-find-postcards-in-singapore/222304&quot;&gt;the forum of Postcrossing&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>reading up on microfinance (including kiva.org)</title>
+   <link href="http://tilde.town/~rogbeer/2021/09/19/overcast/"/>
+   <updated>2021-09-19T00:00:00+00:00</updated>
+   <id>http://tilde.town/2021/09/19/overcast</id>
+   <content type="html">&lt;p&gt;A few resources:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Eugenia Macchiavello’s book: “Microfinance and financial inclusion: 
+the challenge of regulating alternative forms of finance”.&lt;/li&gt;
+  &lt;li&gt;Hugh 
+Sinclair’s book: “Confessions of a microfinance heretic: how 
+microlending lost ita way and betrayed the poor”.&lt;/li&gt;
+  &lt;li&gt;http://www.microfinancetransparency.com/&lt;/li&gt;
+  &lt;li&gt;Stephanie Strom’s 2009 
+article: “confusion on where money lent via Kiva goes”. 
+https://www.nytimes.com/2009/11/09/business/global/09kiva.html&lt;/li&gt;
+  &lt;li&gt;Neil MacFarquhar’s 2010 article: “banks making big profits from tiny loans”.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>about Gitea, or Git, on tilde.town</title>
